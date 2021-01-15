@@ -2,7 +2,7 @@
   "name": "code-kata-args",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "example-script.js",
   "scripts": {
     "test": "jest --watchAll"
   },
